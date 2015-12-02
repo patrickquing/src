@@ -1,0 +1,65 @@
+h3{
+font-weight:bolder;
+}
+
+div.horizontalRule {
+    clear:both;
+    width:100%;
+    background-color:#d1d1d1;
+    height:1px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+tblEducationDetails,#NameOfSchool1{
+	text-decoration: none;
+	font-family:tahoma;
+	font-size:12pt;
+	width:200px;
+
+	}	
+
+.success { background-color: white;}
+
+
+input[type="button"] {
+	background-color: #92278f;
+	color: #fff;
+	width: auto;
+	border: none;
+	margin-top: 10px;
+	padding: 10px 20px;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+}
+
+input[type="button"]:hover {
+	background-color: #58b342;
+}
+
+
+#txtEmail{
+	width:auto;
+}
+
+input[type="password"], textarea {
+	border: 1px solid #dcdcdc;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 10px;
+	outline: none;
+	margin-bottom: 15px;
+}
+
+.tblDownloadAttached{
+font-size:8pt;
+}
+
+
+
+#requiredField{
+	color:red;
+
+}
+
+
+
